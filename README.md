@@ -1,4 +1,4 @@
-# video-sipder
+# video-spider
 爬取快手小视频
 
 url：从快手Android app抓的包，可能包含Android手机的一些信息（未登录）
